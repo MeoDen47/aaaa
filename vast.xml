@@ -1,0 +1,29 @@
+<VAST version="2.0">
+<Ad id="preroll-0">
+<InLine>
+<AdSystem>2.0</AdSystem>
+<AdTitle>vastbanner</AdTitle>
+<Impression id="vastbanner">
+<![CDATA[ ]]>
+</Impression>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:32</Duration>
+<TrackingEvents> </TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ http://localhost ]]> <!-- action click ads to redirect -->
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile height="400" width="650" bitrate="1000" type="video/mp4" delivery="progressive">
+<![CDATA[ https://vjs.zencdn.net/v/oceans.mp4 ]]> <!-- video mp4 ads (public nen di qua http proxy de tranh backlink domain trong trang web) -->
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
